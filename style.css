@@ -1,0 +1,12 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+color: orange;   
+}
+section{
+    display: flex;
+}
